@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Rebecca Krisel"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Rebecca Krisel"
+description              : "Personal Website"
+url                      : # the base hostname & protocol for your site e.g. "https://rskrisel.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Rebecca Krisel"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am a political scientist and communications professional who uses programming languages (R & Python) to study social questions. I am currently a doctoral candidate in political science at the CUNY Graduate Center, where my research focuses on taboo social issues, discourse, and public policy, using Python and R to conduct sentiment analysis, topic modeling, and other forms of text analysis. I have written about the influence of the #MeToo movement on making dance spaces safer for women and LGBTQ communities in New York City. I have also looked at how LGBTQ youth used Zoom and other digital spaces to create virtual dance parties during the height of the pandemic as a way to cope with the alienation of social distancing. Finally, my dissertation research focuses on the efforts to decriminalize, medicalize, and/or legalize psychedelic substances in the US. I am also a Graduate Center Digital Fellow, teaching  beginner and intermediate computing workshops in Python and R to graduate students and faculty. Though these workshops are open to students across all disciplines, my students are primarily based in the humanities and social sciences. I am not a computer scientist...I believe this is a strength in teaching computing to beginners who do not intend on becoming programmers. I excel at developing strategic project proposals, collecting and analyzing large datasets, synthesizing information, and distilling complex ideas for a general audience. As a communication strategist, I have collaborated with clients across sectors including The Tiffany & Co. Foundation, Participant Media, Digital Undivided, and more. Born and raised in Paris, I’m a French-American dual national and have had the chance to live and work short-term in Argentina, Turkey, Spain, and India. I received a Master of International Affairs from Columbia University School of International and Public Affairs (SIPA) and a Bachelor of Arts from Wesleyan University."
+  location         : "New York"
   email            :
   links:
     - label: "Email"
